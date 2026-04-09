@@ -1067,5 +1067,5 @@
     "uploader": "cigartes",
     "game": "Bite By Night",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/XHubScripts/bitebynightcigartes/refs/heads/main/bitebynight\"))()"
-  },
+  }
 ]
