@@ -1027,16 +1027,10 @@
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/b-lacksoul/Matcha/refs/heads/main/pressure\"))()"
   },
   {
-    "name": "MM2 Skin Changer",
-    "uploader": "coconut_man",
-    "game": "Murder Mystery 2",
-    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CoconutManYt/Kidz/refs/heads/main/MM2/SkinChanger.lua\"))()"
-  },
-  {
     "name": "Twisted Menu",
-    "uploader": "ch341par",
+    "uploader": "User",
     "game": "Twisted",
-    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/bestchance12312/Twisted/refs/heads/main/Main\"))()"
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/rayden516/TwistedByUser/refs/heads/main/twisted.lua\"))()"
   },
   {
     "name": "retrograd gun and traitor esp",
@@ -1045,10 +1039,33 @@
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Meletjika1/Retrograd-Item-esp/refs/heads/main/esp.lua\"))()"
   },
   {
-    "name": "Dummies Vs Noobs",
+    "name": "Dummies Vs Noobs (Hitbox)",
     "uploader": "shade_s8o & kitty",
     "game": "Dummies Vs Noobs",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/leo0ntop0-alt/Dummies-vs-Noobs/refs/heads/main/DvN\"))()"
-  }
-
+  },
+  {
+    "name": "Rice -DeepWoken",
+    "uploader": "Exly & Shoelace",
+    "game": "DeepWoken",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Exly78/Rice-Public/main/main.lua\"))()"
+  },
+  {
+    "name": "Jailbreak Tp",
+    "uploader": "opsecdemon67",
+    "game": "Jailbreak",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/acezzy/jbTp/refs/heads/main/SayGex.lua\"))()"
+  },
+  {
+    "name": "Violence District - The Veil aimbot , Advanced ESP, auto skillcheck n MORE",
+    "uploader": "nönz",
+    "game": "Violence District",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/nonzINC/luavm/refs/heads/main/vd/v3.lua\"))()"
+  },
+  {
+    "name": "Bite By Night(Recoded)",
+    "uploader": "cigartes",
+    "game": "Bite By Night",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/XHubScripts/bitebynightcigartes/refs/heads/main/bitebynight\"))()"
+  },
 ]
