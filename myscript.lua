@@ -1049,6 +1049,6 @@
     "uploader": "shade_s8o & kitty",
     "game": "Dummies Vs Noobs",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/leo0ntop0-alt/Dummies-vs-Noobs/refs/heads/main/DvN\"))()"
-  },
+  }
 
 ]
