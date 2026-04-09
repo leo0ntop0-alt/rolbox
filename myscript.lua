@@ -1073,11 +1073,5 @@
     "uploader": "afeef",
     "game": "Bite By Night",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/1afeef/BBNUltimate/refs/heads/main/main.lua\"))()"
-  },
-  {
-    "name": "Da hood HvH",
-    "uploader": "debrainers",
-    "game": "Da Hood",
-    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/debrainers/scripts/refs/heads/main/orbit.lua\"))()"
   }
 ]
