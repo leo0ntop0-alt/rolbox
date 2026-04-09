@@ -1045,10 +1045,10 @@
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Meletjika1/Retrograd-Item-esp/refs/heads/main/esp.lua\"))()"
   },
   {
-    "name": "retrograd gun and traitor esp",
-    "uploader": "ayothatswild",
-    "game": "retrograd",
-    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Meletjika1/Retrograd-Item-esp/refs/heads/main/esp.lua\"))()"
+    "name": "Dummies Vs Noobs",
+    "uploader": "shade_s8o & kitty",
+    "game": "Dummies Vs Noobs",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/leo0ntop0-alt/Dummies-vs-Noobs/refs/heads/main/DvN\"))()"
   },
 
 ]
