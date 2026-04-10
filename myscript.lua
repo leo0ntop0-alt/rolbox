@@ -1085,5 +1085,11 @@
     "uploader": "ayothatswild",
     "game": "Mud Pit",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Meletjika1/Retrograd-Item-esp/refs/heads/main/mudpit.lua\"))()"
+  },
+  {
+    "name": "Be a Parkour Ninja - Auto Kill",
+    "uploader": "redacted",
+    "game": "Be a Parkour Ninja",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/myth4c/Scripts/refs/heads/main/Be%20A%20Parkour%20Ninja\"))()"
   }
 ]
