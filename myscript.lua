@@ -1073,5 +1073,17 @@
     "uploader": "afeef",
     "game": "Bite By Night",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/1afeef/BBNUltimate/refs/heads/main/main.lua\"))()"
+  },
+  {
+    "name": "Bite By Night(Interception)",
+    "uploader": "wave",
+    "game": "Bite By Night",
+    "script": "loadstring(game:HttpGet(\"https://github.com/fhymn/xnw/raw/refs/heads/main/BBN\"))()"
+  },
+  {
+    "name": "MUD PIT enemy esp",
+    "uploader": "ayothatswild",
+    "game": "Mud Pit",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Meletjika1/Retrograd-Item-esp/refs/heads/main/mudpit.lua\"))()"
   }
 ]
