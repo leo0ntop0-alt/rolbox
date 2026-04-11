@@ -280,13 +280,6 @@
     "placeId": 3095204897
   },
   {
-    "name": "Retrograd Item ESP",
-    "uploader": "ayothatswild",
-    "game": "Retrograd",
-    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Meletjika1/Retrograd-Item-esp/refs/heads/main/esp.lua\"))()",
-    "placeId": 94487280422543
-  },
-  {
     "name": "Car Crushers 2 | Auto Farm , Car Mods",
     "uploader": "favian0880",
     "game": "Car Crushers 2",
