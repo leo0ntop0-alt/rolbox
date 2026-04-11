@@ -1245,4 +1245,11 @@
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Bubzieiscool/Matcha-Scripts/refs/heads/main/umaracing.luau\"))()",
     "placeId": 94101948530988
   }
+  {
+    "name": "Fallen survival [Inertia fallen DLC]",
+    "uploader": "code.leak",
+    "game": "Fallen survival",
+    "script": "loadstring(game:HttpGet(\"https://pastebin.com/raw/mHnFP09T\"))()",
+    "placeId": 10228136016
+  }
 ]
