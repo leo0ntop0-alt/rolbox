@@ -1116,4 +1116,10 @@
     "game": "Cursed Gear",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/heronlyslave/CursedGear/refs/heads/main/Cursed.lua\"))()"
   }
+  {
+    "name": "Npc Hitbox Universal",
+    "uploader": "iso",
+    "game": "Universal",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/leo0ntop0-alt/hitbox-expander-string-for-a-idiot/refs/heads/main/HitboxExpander\"))()"
+  }
 ]
