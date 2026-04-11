@@ -1115,7 +1115,7 @@
     "uploader": "yuin",
     "game": "Cursed Gear",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/heronlyslave/CursedGear/refs/heads/main/Cursed.lua\"))()"
-  }
+  },
   {
     "name": "Npc Hitbox Universal",
     "uploader": "iso",
