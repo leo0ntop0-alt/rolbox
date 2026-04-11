@@ -1091,5 +1091,29 @@
     "uploader": "redacted",
     "game": "Be a Parkour Ninja",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/myth4c/Scripts/refs/heads/main/Be%20A%20Parkour%20Ninja\"))()"
+  },
+  {
+    "name": "Ultimate Mining Tycoon",
+    "uploader": "Axel",
+    "game": "Ultimate Mining Tycoon",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Axo09/Ultimate-Mining-Tycoon/refs/heads/main/Mining.lua\", true))()"
+  },
+  {
+    "name": "Street life remastered Esp/Data Viewer",
+    "uploader": "KingNut",
+    "game": "Street life remastered",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/KingNut21/SLMdataviewer/refs/heads/main/Lua\"))()"
+  },
+  {
+    "name": "Minesweeper Duels",
+    "uploader": "Wave",
+    "game": "Minesweeper Duels",
+    "script": "loadstring(game:HttpGet(\"https://github.com/fhymn/script/raw/refs/heads/main/MSD\"))()"
+  },
+  {
+    "name": "Cursed Gear Cache ESP",
+    "uploader": "yuin",
+    "game": "Cursed Gear",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/heronlyslave/CursedGear/refs/heads/main/Cursed.lua\"))()"
   }
 ]
