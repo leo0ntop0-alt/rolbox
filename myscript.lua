@@ -1244,7 +1244,7 @@
     "game": "Uma Racing",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Bubzieiscool/Matcha-Scripts/refs/heads/main/umaracing.luau\"))()",
     "placeId": 94101948530988
-  }
+  },
   {
     "name": "Fallen survival [Inertia fallen DLC]",
     "uploader": "code.leak",
