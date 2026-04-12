@@ -1251,5 +1251,26 @@
     "game": "Fallen survival",
     "script": "loadstring(game:HttpGet(\"https://pastebin.com/raw/mHnFP09T\"))()",
     "placeId": 10228136016
+  },
+  {
+    "name": "Be a Lucky Block",
+    "uploader": "Axel",
+    "game": "Be a Lucky Block",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Axo09/Be-A-Lucky-Block/refs/heads/main/BeALuckyBlock.lua\", true))()",
+    "placeId": 124473577469410
+  },
+  {
+    "name": "Hide And Seek Extreme",
+    "uploader": "lito",
+    "game": "Hide And Seek Extreme",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/celexh/hello/refs/heads/main/Hns\"))()",
+    "placeId": 205224386
+  }
+  {
+    "name": "Baddies",
+    "uploader": "lito",
+    "game": "Baddies",
+    "script": " loadstring(game:HttpGet(\"https://raw.githubusercontent.com/celexh/hello/refs/heads/main/Baddies\"))() ",
+    "placeId": 11158043705
   }
 ]
