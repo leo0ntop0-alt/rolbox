@@ -1270,7 +1270,21 @@
     "name": "Baddies",
     "uploader": "lito",
     "game": "Baddies",
-    "script": " loadstring(game:HttpGet(\"https://raw.githubusercontent.com/celexh/hello/refs/heads/main/Baddies\"))() ",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/celexh/hello/refs/heads/main/Baddies\"))()",
     "placeId": 11158043705
+  },
+  {
+    "name": "Street Life Remastred  Auto Clean Job",
+    "uploader": "witekon",
+    "game": "Street Life Remastred",
+    "script": " loadstring(loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Mzxyp/M/refs/heads/main/Auto%20Clean%20%7CStreet%20Life%20Remastred%7C\"))()",
+    "placeId": 71600459831333
+  },
+  {
+    "name": "Demonology",
+    "uploader": "cxteri",
+    "game": "Demonology",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/nvqren/dawg/refs/heads/main/1.lua\"))()",
+    "placeId": 18199615050
   }
 ]
