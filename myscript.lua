@@ -1265,7 +1265,7 @@
     "game": "Hide And Seek Extreme",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/celexh/hello/refs/heads/main/Hns\"))()",
     "placeId": 205224386
-  }
+  },
   {
     "name": "Baddies",
     "uploader": "lito",
