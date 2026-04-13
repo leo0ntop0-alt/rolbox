@@ -1286,5 +1286,33 @@
     "game": "Demonology",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/nvqren/dawg/refs/heads/main/1.lua\"))()",
     "placeId": 18199615050
+  },
+  {
+    "name": "Build a boat",
+    "uploader": "Shsytemcito",
+    "game": "Build a boat",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/shystemcito/ForMatcha/refs/heads/main/Scripts/Build-A-Boat.luau\"))()",
+    "placeId": 537413528
+  },
+  {
+    "name": "Last Position Teleport + Custom Spawn",
+    "uploader": "iso",
+    "game": "universal",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/seshrest/iso/refs/heads/main/LPT.lua\"))()",
+    "placeId": 0
+  },
+  {
+    "name": "Paradox",
+    "uploader": "10 thousand bees",
+    "game": "Paradox",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/10-thousand-bees/paradoxxing/refs/heads/main/paradoxxing.lua\"))()",
+    "placeId": 9870517705
+  },
+  {
+    "name": "Flee The Facility",
+    "uploader": "lito",
+    "game": "Flee The Facility",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/celexh/hello/refs/heads/main/FTF\"))()",
+    "placeId": 893973440
   }
 ]
