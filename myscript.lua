@@ -1462,4 +1462,28 @@
     "placeId": 893973440,
     "universeId": 372226183
   }
+  {
+    "name": "PF player gun esp",
+    "uploader": "catz",
+    "game": "Phantom Forces",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gooneralert/PFgunESP/refs/heads/main/PFesp.txt\"))()",
+    "placeId": 893973440,
+    "universeId": 113491250
+  }
+  {
+    "name": "Bike of Hell Auto",
+    "uploader": "lito",
+    "game": "Bike of Hell",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/celexh/hello/refs/heads/main/FTF\"))()",
+    "placeId": 893973440,
+    "universeId": 372226183
+  }
+  {
+    "name": "Flee The Facility",
+    "uploader": "lito",
+    "game": "Flee The Facility",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/celexh/hello/refs/heads/main/FTF\"))()",
+    "placeId": 292439477,
+    "universeId": 372226183
+  }
 ]
