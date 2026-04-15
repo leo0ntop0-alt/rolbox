@@ -1521,7 +1521,7 @@
   },
   {
     "name": "Better Anti Fling",
-    "uploader": "lito",
+    "uploader": "works on my machine [puhh]",
     "game": "universal",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/cn2two/latte/refs/heads/main/antiflingplus.lua\"))()",
     "placeId": 0,
@@ -1537,7 +1537,7 @@
   },
   {
     "name": "Attack On Titan Revolution",
-    "uploader": "rorriic",
+    "uploader": "~kiwi~",
     "game": "Attack On Titan Revolution",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/cyguy5050-crypto/AOTR/refs/heads/main/AOTR\"))()",
     "placeId": 13379208636,
