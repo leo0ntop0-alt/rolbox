@@ -28,14 +28,16 @@
     "uploader": "bow_arrow",
     "game": "z: 3008, NPC or DIE, Death in the Box",
     "script": "loadstring(game:HttpGet(\"https://tryvoid.online/api/Loader\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "MatchaScriptHub",
     "uploader": "adur1011",
     "game": "z: bubble gum simulator, Bladeball, Counter Blox, Arsenal, Reflex aim trainer, Forsaken (Beta), Dead Line (Beta), Flee The Facility, Dead Rails - Beta, Notoriety, Murder Mystery 2, Zombie Attack, Aim H4X, Doors, TheFinalStand2, 99 Nights In The Forest, Combat Wariors, Defuse Division",
     "script": "loadstring(game:HttpGet(\"https://pastebin.com/raw/9SgxAMpT\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "redacted's | Blox Fruits Script",
@@ -50,7 +52,8 @@
     "uploader": "trickzz.",
     "game": "Universal",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TrickZz-Matcha/Main-script/refs/heads/main/test\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "spookware++ - war tycoon",
@@ -73,7 +76,8 @@
     "uploader": "ice_of_death & liza6dd",
     "game": "z: Ink Game, Deadly Delivery(EARLY ACCESS - PAID), Your Bizzare Adventure(EARLY ACCESS - PAID), Build a Boat for a Treasure(EARLY ACCESS - PAID)",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/RobloxTurboX/SkidHUB/refs/heads/main/SkidHubLoader.lua\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "shitsaken // Forsaken Script",
@@ -176,7 +180,8 @@
     "uploader": "unclverrr",
     "game": "Universal",
     "script": "loadstring(game:HttpGet(\"https://pastebin.com/raw/ZQA9JsMZ\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "Rivals Cloudy HUB",
@@ -207,7 +212,8 @@
     "uploader": "lito2w",
     "game": "Universal",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/celexh/W-israel/refs/heads/main/Cmd-x%20ported\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "Murder Mystery 2 Esp",
@@ -222,35 +228,40 @@
     "uploader": "192.0.0.2",
     "game": "Universal",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/LuaSecurity/Matcha-Scripts/refs/heads/main/Content/Universal%20Head%20Hitbox%20Expander\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "Arcane Hub | Rewritten!",
     "uploader": "192.0.0.2",
     "game": "z: Boom Hood, Build A Boat For Treasure, Arsenal, Counter Blox, Prison Life, Defuse Division, Strongest Punch Simulator, Evade, Murder Mystery 2",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/LuaSecurity/Matcha-Scripts/refs/heads/main/Arcane%20Loader.lua\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "Auto Piano",
     "uploader": "orb1i",
     "game": "Games that have a Piano",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/0rbimatcha/ozyorbimathcascripts/refs/heads/main/matchascripts/LOADER.lua\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "auto align",
     "uploader": "lito2w",
     "game": "Universal",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/celexh/W-israel/refs/heads/main/Align\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "Player Follower",
     "uploader": "lito2w",
     "game": "Universal",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/celexh/W-israel/refs/heads/main/W%20israel%20script\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "SharkBite 2 | ESP , Auto Kill , Auto Farm",
@@ -361,7 +372,8 @@
     "uploader": "ebt0x",
     "game": "Universal",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/sxeaware/korbloxheadlessvisual/refs/heads/main/zzz\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "Bizzare Hijinks - Menu",
@@ -488,7 +500,8 @@
     "uploader": "not_x3b0",
     "game": "Universal",
     "script": "loadstring(game:HttpGet(\"https://pastebin.com/raw/NXT8tVHU\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "Violence district - OHHHHHHHHHHHHH ITS WORKING AFTER 9 HOURS",
@@ -503,14 +516,16 @@
     "uploader": "15g2",
     "game": "Universal",
     "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/99f9/120579daf862e1d6c994e0c1f58f1603/raw/1cba9453fdef552a96d1979fcaf77943f8cac4f9/uhqscript.lua\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "Crosshair Customiser",
     "uploader": "acezzy",
     "game": "Universal",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/chromav1/crosshaircustom/refs/heads/main/main\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "Blindshot",
@@ -533,7 +548,8 @@
     "uploader": "5vyl",
     "game": "Murder Mystery 2, south bronx, tha bronx 3",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/an6ger/chatgptesp/refs/heads/main/chatgptesp.lua\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "Word Bomb",
@@ -556,7 +572,8 @@
     "uploader": "1i3t",
     "game": "Universal",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/purifiedhate/FlingGUI/refs/heads/main/Main.lua\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "dingus esp slop",
@@ -571,7 +588,8 @@
     "uploader": "notkezo",
     "game": "Universal",
     "script": "loadstring(game:HttpGet(\"https://pastebin.com/raw/dTdsAXL3\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "Lost front esp",
@@ -586,7 +604,8 @@
     "uploader": "holygrials",
     "game": "Universal",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/holygrial/Matcha-Public/refs/heads/main/Snake.lua\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "Blind Shot ESP",
@@ -601,7 +620,8 @@
     "uploader": "murderratee",
     "game": "Universal",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/kcqn/better-playerlist/refs/heads/main/betterplayerlist.lua\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "MM2 Script (better than others imo)",
@@ -648,7 +668,8 @@
     "uploader": "joh.fgs",
     "game": "Whos the Spy, Murder Mystery 2, Babft, BloxStrike, Counter Blox, Giga Mansion Tycoon, Operation One, Zombie Attack, A desrt, Flee The Facility, Wavelength, Stands-Awakening, SLAP, Shawarma Kiosk",
     "script": "_G.Key = \"YourKey\"\nloadstring(game:HttpGet(\"https://celeste-hub.onrender.com/api/content/loader\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "Combat Warriors AP",
@@ -679,7 +700,8 @@
     "uploader": "matt.t123",
     "game": "Universal",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Matt-T-123/SaveInstance/refs/heads/main/SaveInstance.lua\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "Basketball Zero (repost)",
@@ -710,7 +732,8 @@
     "uploader": "0szczur",
     "game": "Universal",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/0szczursoft/mata/refs/heads/main/ssr.lua\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "latte fisch",
@@ -773,7 +796,8 @@
     "uploader": "unknown",
     "game": "Universal",
     "script": "loadstring(game:HttpGet(\"https://pastebin.com/raw/7mKckVSq\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "Jump Showdown",
@@ -796,14 +820,16 @@
     "uploader": "doinkx",
     "game": "Universal",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/d0inks/moon.lua/refs/heads/main/main.lua\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "Xi Hub | Auto Collector",
     "uploader": "maxidemierda",
     "game": "Universal",
     "script": "loadstring(game:HttpGet(\"https://auto-collector.onrender.com/v1beta.lua\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "Fisch",
@@ -826,7 +852,8 @@
     "uploader": "y058361",
     "game": "Universal",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/jjengu/scripts/refs/heads/main/vm_animations.lua\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "defuse stuff",
@@ -873,7 +900,8 @@
     "uploader": "z1xeddd",
     "game": "Unknown Threat",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Z1xed/Unknown-Threat-ESP/main/script.lua\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "Skid Mafia",
@@ -968,7 +996,8 @@
     "uploader": "Multiple Games",
     "game": "Multiple Games",
     "script": "loadstring(game:HttpGet(\"https://pastebin.com/raw/miLzeafg\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "attack on titan revolution",
@@ -1023,14 +1052,16 @@
     "uploader": "kittygat0",
     "game": "Universal",
     "script": "loadstring(game:HttpGet(\"https://pastebin.com/raw/2H3WSec2\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "Chinese / Cone Hat",
     "uploader": "redacted____1",
     "game": "Universal",
     "script": "_G.ConeHat = {FPS=60}\nloadstring(game:HttpGet('https://raw.githubusercontent.com/myth4c/Scripts/refs/heads/main/Chinese%20Hat'))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "The Armory Crate, Dropped, Hatches Esp",
@@ -1061,21 +1092,24 @@
     "uploader": "d.unne",
     "game": "Universal",
     "script": "loadstring(game:HttpGet('https://pastebin.com/raw/dCmNR3j4'))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "Universal Chat Spammer Troll",
     "uploader": "favian0880",
     "game": "Universal",
     "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/FavianOnDat/3edc3fa90f99c33d3ae85e0544866510/raw/bdbf953515aa5aeb38e3cdf4e36125db820f2ba4/ChatSpammer.lua\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "Fake Headless | Client-Sided Only",
     "uploader": "favian0880",
     "game": "Universal",
     "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/FavianOnDat/7e9859f1a9358adf07f403ae5ca384aa/raw/861986ba9f2050f32865dd3c8cd617520ec9f553/headless\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "Wabi Sabi Chess Club",
@@ -1138,7 +1172,8 @@
     "uploader": "orb1i",
     "game": "Parkour Modded",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/orbiacc/-650x-Parkour-Modded/refs/heads/main/Parkour%20Modded.lua\"))()",
-    "placeId": 106592895389728
+    "placeId": 106592895389728,
+    "universeId": 0
   },
   {
     "name": "Volleyball Legends",
@@ -1169,21 +1204,24 @@
     "uploader": "code.leak",
     "game": "Universal",
     "script": "loadstring(game:HttpGet(\"https://pastebin.com/raw/yp06GRQE\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "self trashtalk bot",
     "uploader": "jugginburgers",
     "game": "Universal",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/kingvonlover/matcha-self-trashtalk-bot/refs/heads/main/matchatrashtalk.luau\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "Simple Headless",
     "uploader": "bryhh",
     "game": "Universal",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/bryhh7/headless/refs/heads/main/headless.lua\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "Wabi Sabi Ro!Qube",
@@ -1358,14 +1396,16 @@
     "uploader": "yuin",
     "game": "Cursed Gear",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/heronlyslave/CursedGear/refs/heads/main/Cursed.lua\"))()",
-    "placeId": 10154506972
+    "placeId": 10154506972,
+    "universeId": 0
   },
   {
     "name": "Npc Hitbox Universal",
     "uploader": "iso",
     "game": "Universal",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/leo0ntop0-alt/hitbox-expander-string-for-a-idiot/refs/heads/main/HitboxExpander\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "The button item esp",
@@ -1444,7 +1484,8 @@
     "uploader": "iso",
     "game": "universal",
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/seshrest/iso/refs/heads/main/LPT.lua\"))()",
-    "placeId": 0
+    "placeId": 0,
+    "universeId": 0
   },
   {
     "name": "Paradox",
@@ -1461,7 +1502,7 @@
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/celexh/hello/refs/heads/main/FTF\"))()",
     "placeId": 893973440,
     "universeId": 372226183
-  }
+  },
   {
     "name": "PF player gun esp",
     "uploader": "catz",
@@ -1469,21 +1510,37 @@
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gooneralert/PFgunESP/refs/heads/main/PFesp.txt\"))()",
     "placeId": 893973440,
     "universeId": 113491250
-  }
+  },
   {
     "name": "Bike of Hell Auto",
-    "uploader": "lito",
+    "uploader": "y_onex",
     "game": "Bike of Hell",
-    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/celexh/hello/refs/heads/main/FTF\"))()",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/y-onexW/Bike-of-Hell-Auto/refs/heads/main/BikeOfHell.lua\"))()",
     "placeId": 893973440,
-    "universeId": 372226183
-  }
+    "universeId": 5148099079
+  },
   {
-    "name": "Flee The Facility",
+    "name": "Better Anti Fling",
     "uploader": "lito",
-    "game": "Flee The Facility",
-    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/celexh/hello/refs/heads/main/FTF\"))()",
-    "placeId": 292439477,
-    "universeId": 372226183
+    "game": "universal",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/cn2two/latte/refs/heads/main/antiflingplus.lua\"))()",
+    "placeId": 0,
+    "universeId": 0
+  },
+  {
+    "name": "Bridger Western",
+    "uploader": "rorriic",
+    "game": "Bridger Western",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/rorri-cm/Bridger-/refs/heads/main/bridger_western.lua\"))()",
+    "placeId": 99449877692519,
+    "universeId": 8524572339
+  },
+  {
+    "name": "Attack On Titan Revolution",
+    "uploader": "rorriic",
+    "game": "Attack On Titan Revolution",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/cyguy5050-crypto/AOTR/refs/heads/main/AOTR\"))()",
+    "placeId": 13379208636,
+    "universeId": 4658598196
   }
 ]
