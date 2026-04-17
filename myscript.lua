@@ -2,8 +2,8 @@
   {
     "name": "Test Script",
     "uploader": "fonso0_",
-    "game": "",
-    "script": "",
+    "game": "Test",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/fonso-0/matcha-scripts/refs/heads/main/MemeWare.lua\"))()",
     "placeId": 0,
     "universeId": 0
   },
