@@ -1,5 +1,13 @@
 [
   {
+    "name": "Test Script",
+    "uploader": "fonso0_",
+    "game": "",
+    "script": "",
+    "placeId": 0,
+    "universeId": 0
+  },
+  {
     "name": "MemeWare.hvh Counter Blox HVH",
     "uploader": "fonso0_",
     "game": "Counter Blox",
