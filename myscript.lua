@@ -1598,5 +1598,13 @@
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/celexh/hello/refs/heads/main/newwarfarex\"))()",
     "placeId": 501396354,
     "universeId": 193644630
+  },
+  {
+    "name": "Archemara",
+    "uploader": "TheDefaultBio",
+    "game": "Archemara",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ThaDeafaultBoi/Matcha-Scripts/main/ARCHEMARA.lua\"))()",
+    "placeId": 13100646976,
+    "universeId": 4573906792
   }
 ]
